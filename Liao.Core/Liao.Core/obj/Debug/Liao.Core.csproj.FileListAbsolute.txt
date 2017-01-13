@@ -1,0 +1,5 @@
+D:\WorkSpace\源代码管理\Git\Liao.Core\Liao.Core\Liao.Core\bin\Debug\Liao.Core.XML
+D:\WorkSpace\源代码管理\Git\Liao.Core\Liao.Core\Liao.Core\bin\Debug\Liao.Core.dll
+D:\WorkSpace\源代码管理\Git\Liao.Core\Liao.Core\Liao.Core\bin\Debug\Liao.Core.pdb
+D:\WorkSpace\源代码管理\Git\Liao.Core\Liao.Core\Liao.Core\obj\Debug\Liao.Core.dll
+D:\WorkSpace\源代码管理\Git\Liao.Core\Liao.Core\Liao.Core\obj\Debug\Liao.Core.pdb
